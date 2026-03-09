@@ -2,6 +2,7 @@
 Este projeto foi desenvolvido com o objetivo de aplicar os conhecimentos adquiridos na Unidade I da disciplina de Resolução de Problemas em Grafos, por meio da análise estrutural de uma rede real obtida da coleção SNAP.
 
 A proposta central consiste em investigar se a rede selecionada apresenta propriedades associadas a grafos de escala livre, bem como discutir os limites dessa classificação dentro do domínio analisado.
+
 ---
 ## 1. Objetivos Específicos
 
